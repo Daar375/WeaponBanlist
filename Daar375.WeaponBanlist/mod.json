@@ -25,7 +25,7 @@
 	"Scripts": [
 		{
 			"Path": "WeaponBanChecker.nut",
-			"RunOn": "SERVER",
+			"RunOn": "SERVER && MP",
 			"ServerCallback": {
 				"After": "WeaponBanChecker_Init"
 			}
