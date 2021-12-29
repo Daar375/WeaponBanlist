@@ -8,7 +8,7 @@
 
 		{//The interval in which the server check what weapon the players are using
 			"Name": "weaponcheckInterval",
-			"DefaultValue": "10.0"
+			"DefaultValue": "5.0"
 		},
 		{//List all the banned weapons spaced with a , get the names from this list https://noskill.gitbook.io/titanfall2/documentation/file-location/weapon/weapon-config-file-name
 			"Name": "banList",
